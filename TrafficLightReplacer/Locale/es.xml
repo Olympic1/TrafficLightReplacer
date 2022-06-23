@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2009/XMLSchema/XMLSchema.xsd" UniqueName="en" ReadableName="English">
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2009/XMLSchema/XMLSchema.xsd" UniqueName="es" ReadableName="Spanish">
   <Translations>  
     <Translation ID="MOD_DESCRIPTION" String="Personaliza los semáforos de tu ciudad"/>
     <Translation ID="MAINWINDOW_TITLE" String="Traffic Light Replacer"/>
