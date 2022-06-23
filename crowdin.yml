@@ -1,0 +1,5 @@
+files:
+  - source: /TrafficLightReplacer/Locale/en.xml
+    translation: /TrafficLightReplacer/Locale/%two_letters_code%.xml
+    translatable_elements:
+      - '/Language/Translations/Translation[@String]'
