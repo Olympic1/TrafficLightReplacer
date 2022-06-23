@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Language UniqueName="es" ReadableName="Spanish" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2009/XMLSchema/XMLSchema.xsd">
-  <Translations>
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2009/XMLSchema/XMLSchema.xsd" UniqueName="en" ReadableName="English">
+  <Translations>  
     <Translation ID="MOD_DESCRIPTION" String="Personaliza los semáforos de tu ciudad"/>
     <Translation ID="MAINWINDOW_TITLE" String="Traffic Light Replacer"/>
     <Translation ID="MAINWINDOW_PACKLABEL" String="Paquete:"/>
@@ -19,6 +19,8 @@
     <Translation ID="LHDERROR" String="Error: El modo de conducción por la izquierda todavía no es soportado"/>
     <Translation ID="COUNTINGERROR" String="Error de conteo de accesorios! Probablemente los semáforos tienen posiciones incorrectas"/>
     <Translation ID="TSEGIDERROR" String="Error al buscar ids de segmentos para Cruces en T"/>
+    
+    <!-- Asset CREATOR WINDOW -->
     <Translation ID="GENTEMPXML" String="Generar Plantilla XML del paquete"/>
     <Translation ID="GENTEMPXMLMESSAGE" String="Se ha exportado el archivo XML *Plantilla exportada en *&#10;&#10;Clic en el ícono de carpeta en la ventana de Creación de Paquete para abrir la ubicación"/>
     <Translation ID="NETNAMELABEL" String="Nombre:"/>
@@ -33,14 +35,20 @@
     <Translation ID="ERROROVERWRITE" String="Confirmación de sobreescribir"/>
     <Translation ID="ERROROVERWRITEDESCRP" String="¿Estás seguro que deseas sobreescribir la plantilla XML?"/>
     <Translation ID="TESTBUTTON" String="Probar"/>
+    
+    <!--MOD SETTINGS-->
     <Translation ID="FEATURESGROUPTITLE" String="Características del Mod"/>
     <Translation ID="PACKCREATOROPTION" String="Mostrar Ayuda de Creación de Paquetes"/>
     <Translation ID="MAINBACKGROUNDOPTION" String="Fondo de Botón Principal"/>
     <Translation ID="TWEAKSGROUPTITLE" String="Modificaciones"/>
-    <Translation ID="DEFAULTSIDESIGNALPOLE" String="Mostrar Poste de Señales en el Lado Predeterminado"/>
+    <Translation ID="DEFAULTSIDESIGNALPOLE" String="Mostrar Poste de Señales en el Lado Predeterminado"/>  
     <Translation ID="RESETGROUPMESSAGE" String="Restaurar* Posición del ícono* Botón Presionado!"/>
+  
+ <!--TransformSettingsLabel-->
     <Translation ID="OFFSET" String="Ajuste"/>
     <Translation ID="ANGLE" String="Ángulo"/>
     <Translation ID="SCALE" String="Escala"/>
+    
+
   </Translations>
 </Language>
