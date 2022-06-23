@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2009/XMLSchema/XMLSchema.xsd" UniqueName="en" ReadableName="English">
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2009/XMLSchema/XMLSchema.xsd" UniqueName="zh" ReadableName="Chinese">
   <Translations>  
     <Translation ID="MOD_DESCRIPTION" String="自定义城市所有的红绿灯"/>
     <Translation ID="MAINWINDOW_TITLE" String="红绿灯替换工具"/>
