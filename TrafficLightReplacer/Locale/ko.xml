@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2009/XMLSchema/XMLSchema.xsd" UniqueName="en" ReadableName="English">
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2009/XMLSchema/XMLSchema.xsd" UniqueName="ko" ReadableName="Korean">
   <Translations>  
     <Translation ID="MOD_DESCRIPTION" String="도시의 신호등을 커스텀 신호등으로 변경"/>
     <Translation ID="MAINWINDOW_TITLE" String="신호등 재배치 모드"/>
